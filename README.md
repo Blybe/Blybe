@@ -29,8 +29,9 @@
 
 <br />
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9151b935-2dbb-41c4-ae46-8dbfc9af6e48" alt="Blybe Oni">
+  <img src="https://github.com/user-attachments/assets/982b0750-1e62-473f-b5c7-1386afce6176" alt="Blybe Oni">
 </p>
 
 Projects 👀
